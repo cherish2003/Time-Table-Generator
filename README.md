@@ -1,6 +1,6 @@
 # Timetable Generator
 
-Automated Timetable Generator is a Python-based project that simplifies the scheduling process. Users input subject details, faculty names, and weekly tutorial requirements. Utilizing various functions and algorithms, the system organizes data to generate accurate and sequential timetables efficiently.
+Automated Timetable Generator is a c-based project that simplifies the scheduling process. Users input subject details, faculty names, and weekly tutorial requirements. Utilizing various functions and algorithms, the system organizes data to generate accurate and sequential timetables efficiently.
 
 ## Features
 
