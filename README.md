@@ -7,7 +7,6 @@ Automated Timetable Generator is a c-based project that simplifies the schedulin
 - User-friendly input system
 - Efficient organization of subject details
 - Sequential timetable generation
-- Implemented using Python functions and algorithms
 
 ## Usage
 
